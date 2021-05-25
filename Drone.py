@@ -356,7 +356,7 @@ class Drone(object):
 
         if(self.puede==False):#Cuando va a chocar con un objeto
             return self.SpeechTranslator.Reward("So Bad")
-        elif(self.estado==self.estadoAnterior)::#Cuando se aleja del objetivo final
+        elif(self.estado==self.estadoAnterior):#Cuando se aleja del objetivo final
             return self.SpeechTranslator.Reward("Bad")
         elif(self.estado[1]>9):#Cuando llega al objetivo final
             return self.SpeechTranslator.Reward("Perfect")

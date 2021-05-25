@@ -20,7 +20,7 @@ class Speech(object):
         self.rewards = pd.read_csv("reward.csv",encoding='latin-1') 
         self.palabra=""
         self.instruccion=-100
-        self.directory='C:/Users/Rubenz/Desktop/Tesis/Tesis/Grabaciones/'
+        self.directory='C:/Users/Rubenz/Desktop/Tesis/ProyectoDrones/Grabaciones/'
         self.reward_directory=self.directory+'Rewards/'
         self.action_directory=self.directory+'Actions/'
 
