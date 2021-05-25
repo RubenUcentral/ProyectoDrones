@@ -1,0 +1,50 @@
+Instruccion,Numero
+parar,0
+detener,0
+detenerse,0
+stop,0
+elevate,1
+sube,1
+subir,1
+para arriba,1
+sube para arriba,1
+aumentar altura,1
+aumentar altitud,1
+up,1
+gira a la derecha,2
+girar a la derecha,2
+gire a la derecha,2
+turn right,2
+gira a la izquierda,3
+girar a la izquierda,3
+gire a la izquierda,3
+turn left,3
+baja,4
+disminuir altura,4
+disminuir altitud,4
+go down,4
+down,4
+derecha,5
+a la derecha,5
+to the right,5
+to right,5
+right,5
+izquierda,6
+a la izquierda,6
+to the left,6
+left,6
+to left,6
+avanza,7
+avanzar,7
+para adelante,7
+para delante,7
+move,7
+get moving,7
+go forward,7
+retrocede,8
+retroceder,8
+atras,8
+para atras,8
+marcha atras,8
+reverse,8
+go back,8

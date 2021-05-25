@@ -1,0 +1,20 @@
+Instruccion,Numero
+genial,5
+muy bien,5
+perfecto,5
+perfect,5
+very well,5
+very good,5
+regular,1
+más o menos,1
+continua así,1
+not bad,1
+continue like that,1
+muy mal,-10
+malisimo,-10
+terrible,-10
+so bad,-10
+muy malo,-10
+horrible,-10
+bad,-0.5
+mal,-0.5
