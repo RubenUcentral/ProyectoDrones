@@ -95,8 +95,8 @@ class Agente():
     
 entorno = Drone()
 
-episodios = 3
-cantidadAgentes = 1
+episodios = 20
+cantidadAgentes = 20
 
 
 rewardEntrenador = np.zeros(episodios)
